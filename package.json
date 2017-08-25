@@ -1,0 +1,10 @@
+{
+  "name": "project-two-08232017",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "generator-opinionated-express-mvc": "https://github.com/shanebarringer/generator-opinionated-express-mvc.git",
+    "yo": "^2.0.0"
+  }
+}
